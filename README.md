@@ -13,7 +13,7 @@ If you haven't already, **fork and clone** this lab into your local environment.
 Navigate into its directory in the terminal, then run `code .` to open the files
 in Visual Studio Code.
 
-## Identify That DOM Nodes Are Written As HTML
+## Identify That DOM Nodes Are Written As HTML                                                                                                                                               
 
 In the previous lesson, we learned that, when we load a web page in a browser,
 the content we see in the DOM is a representation of the underlying HTML, CSS
